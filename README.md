@@ -2,7 +2,7 @@ Forked from https://github.com/tamht298/Hackintosh-OpenCore-Catalina-Dell-Inspir
 
 # Hackintosh Acer-Aspire-F5-572-series:
 ## Result
-
+![Screnshot](https://i.imgur.com/VELTLy5.png)
 ## System's Configuration:
 * Laptop Acer Aspire F5 572 series
 
