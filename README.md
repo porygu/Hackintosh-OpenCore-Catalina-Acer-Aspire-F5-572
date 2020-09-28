@@ -15,9 +15,8 @@ Forked from https://github.com/tamht298/Hackintosh-OpenCore-Catalina-Dell-Inspir
 | Graphics       | Intel HD Graphics 520 + NVIDIA GEFORCE 920M                     |
 | Display        | LED HD 1366x768 (15.6 inches)                                   |
 | Network Card   | Qualcomm atheros qca9377 Wireless Network                       |
-| -------------- | --------------------------------------------------------------- |
 
-* macOS Catatlina 10.15.6
+* macOS Catalina 10.15.6
 * OpenCore 0.6.0
 
 ## Not working
