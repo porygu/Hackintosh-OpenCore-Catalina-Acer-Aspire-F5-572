@@ -1099,7 +1099,7 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
-			<true/>
+			<false/>
 			<key>OSInfo</key>
 			<false/>
 			<key>UnicodeCollation</key>
