@@ -19,6 +19,8 @@ Forked from https://github.com/tamht298/Hackintosh-OpenCore-Catalina-Dell-Inspir
 * Mac OS X 10.15.6 19G2021 (Catalina)
 * OpenCore 0.6.2 (Release version)
 
+
+*WIFI fixed with AC600 Archer T2U Plus (Bluetooth tethering from an Android device is working native)
+
 ## Not working
 * NVIDIA
-* WIFI (Bluetooth tethering from an Android device is working)
