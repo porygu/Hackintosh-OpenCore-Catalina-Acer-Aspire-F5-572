@@ -878,6 +878,9 @@
 			<integer>0</integer>
 			<key>Vault</key>
 			<string>Optional</string>
+			<key>BlacklistAppleUpdate</key>
+			<true/>
+
 		</dict>
 		<key>Tools</key>
 		<array>
