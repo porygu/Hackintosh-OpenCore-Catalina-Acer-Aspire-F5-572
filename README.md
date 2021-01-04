@@ -17,7 +17,7 @@ Forked from https://github.com/tamht298/Hackintosh-OpenCore-Catalina-Dell-Inspir
 | Network Card   | Qualcomm atheros qca9377 Wireless Network                       |
 
 * Mac OS X 10.15.6 19G2021 (Catalina)
-* OpenCore 0.6.4 (Release version)
+* OpenCore 0.6.5 (Release version)
 
 
 *WIFI fixed with AC600 Archer T2U Plus
